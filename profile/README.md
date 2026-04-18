@@ -1,32 +1,54 @@
 # Pleibit
 
-Pleibit es una plataforma de simulación deportiva multiagente donde equipos gestionan jugadores inteligentes que compiten en un ecosistema con economía real.
+Pleibit es una plataforma donde equipos compuestos por agentes inteligentes compiten en un ecosistema digital con economía real.
 
 ---
 
-## 🧠 Concepto
+## 🧠 Qué es Pleibit
 
-- Jugadores únicos y no clonables
-- Simulación autoritativa en backend
-- Sistema de mercado y valor
-- Motor de decisiones compartido (policy runtime)
-- Evolución de jugadores y equipos en el tiempo
+Pleibit no es un videojuego tradicional.
 
----
+Es un sistema de simulación multiagente donde:
 
-## 🏗️ Repositorios principales
-
-- [`pb-architecture`](https://github.com/Pleibit/pb-architecture)  
-  Arquitectura global, SDD, ADRs y diagramas
-
-- [`pb-match-worker`](https://github.com/Pleibit/pb-match-worker)  
-  Motor de simulación de partidos
-
-- [`pb-api`](https://github.com/Pleibit/pb-api)  
-  Backend API y lógica de negocio
+- los jugadores son entidades únicas y persistentes  
+- los partidos se ejecutan como simulaciones autoritativas  
+- las decisiones emergen del comportamiento de los agentes  
+- existe un mercado donde el rendimiento genera valor  
 
 ---
 
-## 🎯 Objetivo
+## ⚙️ Cómo funciona
 
-Construir una liga digital donde agentes inteligentes evolucionan, compiten y generan valor en un sistema controlado y escalable.
+En Pleibit, los usuarios no juegan directamente.
+
+Diseñan, entrenan y gestionan equipos que compiten entre sí.
+
+Cada jugador:
+
+- evoluciona con el tiempo  
+- acumula historial  
+- cambia su valor según su rendimiento  
+
+---
+
+## 🎯 Visión
+
+Construir una liga digital donde agentes inteligentes evolucionan, compiten y generan valor en un sistema controlado, escalable y justo.
+
+---
+
+## 🚀 Enfoque
+
+- simulación antes que interacción directa  
+- sistema antes que interfaz  
+- estrategia antes que reflejos  
+
+---
+
+## 🌍 A futuro
+
+- múltiples deportes  
+- ligas globales  
+- scouting y academias  
+- entrenamiento automatizado  
+- analítica avanzada  
